@@ -42,7 +42,7 @@ I am a detail-oriented Software Development and UI/UX student with hands-on expe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Crizneil/My-Portfolio.git
+   git clone https://github.com/Crizneil/Crisneil-Portfolio-Official.git
    ```
 2. Install dependencies:
    ```bash
